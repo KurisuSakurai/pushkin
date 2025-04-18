@@ -12,7 +12,7 @@ public class Page : ScriptableObject
     [field: DisplayName("Название картины")]
     [field: SerializeField] public string Name { get; private set; }
     
-    [field: DisplayName("Описание картины")]
+    [field: TextArea(3, 10)]
     [field: SerializeField] public string Description { get; private set; }
     
     [Tooltip("Сама картина. Отсюда будет браться изображения для превью и для страницы")]

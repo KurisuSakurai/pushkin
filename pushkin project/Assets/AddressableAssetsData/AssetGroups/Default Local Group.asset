@@ -75,6 +75,13 @@ MonoBehaviour:
     m_SerializedLabels:
     - page
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 463b7b4eed8d4a64ca801ef36d9d9481
+    m_Address: "Assets/_Project/Author/Data/\u041D\u0435 \u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439
+      1.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - author
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4c89a0f8c94423b47867af11cff7eebd
     m_Address: Assets/_Project/Page/Data/Test page 9.asset
     m_ReadOnly: 0
@@ -92,6 +99,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - author
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ad08d610d0e5c4a9625939efdd1bef
+    m_Address: Assets/_Project/Page/Data/Test page 11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5b004442efcb56d4e9d44561aef7f071
     m_Address: Assets/_Project/Page/Data/Test page 1 1 1.asset
@@ -158,6 +171,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fce665ef4a22db4395c8155d27f4137
+    m_Address: "Assets/_Project/Author/Data/\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - author
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 951a64c48a9653748a59c59fb70830ac
     m_Address: Assets/_Project/Page/Data/Test page 4 2.asset
@@ -249,6 +268,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - page
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e78d0b18291c95446b9af0cd28819147
+    m_Address: "Assets/_Project/Author/Data/\u0432\u0430\u043F.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - author
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebb4b185183b5a74396729a1711ca27e
     m_Address: Assets/_Project/Page/Data/Test page 6 1 1.asset
     m_ReadOnly: 0
@@ -263,6 +288,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f28165da587d90c4fa0325df489ec108
     m_Address: Assets/_Project/Page/Data/Test page 7 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5f7a33ec22d6084da1c2ee90ff23ce9
+    m_Address: Assets/_Project/Page/Data/Test page 12.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - page
