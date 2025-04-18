@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 2f9e4a0bc2623f649841ce8f7232f06c
+  m_SerializeEntries:
+  - m_GUID: 06492e5e76744344cac25a3fe84f12e1
+    m_Address: Assets/_Project/Page/Data/Test page 6 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ac32155a214f23459e45579e876862b
+    m_Address: Assets/_Project/Page/Data/Test page 7 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14f16d293d1e1ba4f9830ca47674b819
+    m_Address: Assets/_Project/Page/Data/Test page 5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15d9e4904448d4b4986898c274d17ef7
+    m_Address: Assets/_Project/Page/Data/Test page 7.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ec6f5a4646f58b4090c5f9a15b5f48f
+    m_Address: Assets/_Project/Page/Data/Test page 1 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31083b7ea49128440b770052642c9ef2
+    m_Address: Assets/_Project/Page/Data/Test page 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d552ffa33b94b74aba06172a7adbb8d
+    m_Address: Assets/_Project/Page/Data/Test page 8 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f71e5e637f91764b9b445fbe26999ff
+    m_Address: Assets/_Project/Page/Data/Test page 2 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42345fb1ec773cb41ae7dd160f11cf14
+    m_Address: Assets/_Project/Page/Data/Test page 2 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42b4e18f1ce7f8e4f9399a01e44c9694
+    m_Address: Assets/_Project/Page/Data/Test page 4 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c89a0f8c94423b47867af11cff7eebd
+    m_Address: Assets/_Project/Page/Data/Test page 9.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55ebaef98450479469f9f442e3787c04
+    m_Address: Assets/_Project/Page/Data/Test page 10 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57899242d6ceb01478aa37ec6d170b9d
+    m_Address: "Assets/_Project/Author/Data/\u0422\u043E\u0436\u0435 \u043F\u0443\u0448\u043A\u0438\u043D.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - author
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b004442efcb56d4e9d44561aef7f071
+    m_Address: Assets/_Project/Page/Data/Test page 1 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62053dc0cfbcdf64093a803154ee8218
+    m_Address: Assets/_Project/Page/Data/Test page 9 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 661a9397938986b4cbd3a8e60fcb3571
+    m_Address: Assets/_Project/Page/Data/Test page 4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 667805a0fd4c5a443b8a7e9682e6e54f
+    m_Address: Assets/_Project/Page/Data/Test page 6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b3d632dc196912468a739d24bb65a43
+    m_Address: Assets/_Project/Page/Data/Test page 8.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74ca567ac129d8840b0fa3b4388da033
+    m_Address: Assets/_Project/Page/Data/Test page 9 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7970fbb08574c994fb20d06d72671aa7
+    m_Address: Assets/_Project/Page/Data/Test page 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 798e4ef4f345a414ba10646bde3d5777
+    m_Address: Assets/_Project/Page/Data/Test page 7 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cbb12427c89b734f8884dd9aa463c4d
+    m_Address: Assets/_Project/Page/Data/Test page 8 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d872379903fb9048967ebb1ebb78f8d
+    m_Address: Assets/_Project/Page/Data/Test page 10 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cf0adf6fb4f33a4bbaf7a0909da2d2b
+    m_Address: Assets/_Project/Page/Data/Test page 3 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 951a64c48a9653748a59c59fb70830ac
+    m_Address: Assets/_Project/Page/Data/Test page 4 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97db6e2b6a7b56745bb1113ad0d339d3
+    m_Address: Assets/_Project/Page/Data/Test page 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9abc340cdbb4c864c944a41a8e181317
+    m_Address: Assets/_Project/Page/Data/Test page 9 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b5c7ac1c6b31594894b8735ac83c9a6
+    m_Address: Assets/_Project/Page/Data/Test page 2 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a471fa311c299404cb800de62a08fbd1
+    m_Address: Assets/_Project/Page/Data/Test page 3 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa378b473cd508746a5fa6506f1dfb01
+    m_Address: Assets/_Project/Page/Data/Test page 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba52c132ee53cc648be0128f9f9d45a8
+    m_Address: Assets/_Project/Page/Data/Test page 5 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bebc36e56e036a5498c4bba2d69aa437
+    m_Address: Assets/_Project/Page/Data/Test page 5 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfc214eb203fcd340bb5b5f2af31ea8a
+    m_Address: "Assets/_Project/Author/Data/\u041D\u0435 \u043F\u0443\u0448\u043A\u0438\u043D.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - author
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2724e01c8ebbf84bbd7dd693383de40
+    m_Address: Assets/_Project/Page/Data/Test page 3 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbcb6a3437855d642931eb7dad362618
+    m_Address: "Assets/_Project/Author/Data/\u041F\u0443\u0448\u043A\u0438\u043D.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - author
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55c84c4b154c3f4eb6e7aa28a772f62
+    m_Address: Assets/_Project/Page/Data/Test page 5 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d69ec41b706c2d9459c7cc320b79ed3b
+    m_Address: Assets/_Project/Page/Data/Test page 8 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd9164ef711eebc4faff265d1bf79d43
+    m_Address: Assets/_Project/Page/Data/Test page 10 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6c14a2d614a41747b35c05df85cc81d
+    m_Address: Assets/_Project/Page/Data/Test page 6 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebb4b185183b5a74396729a1711ca27e
+    m_Address: Assets/_Project/Page/Data/Test page 6 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee97af4949c12314586d54dea846332e
+    m_Address: Assets/_Project/Page/Data/Test page 4 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f28165da587d90c4fa0325df489ec108
+    m_Address: Assets/_Project/Page/Data/Test page 7 1 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7113081cbcfa6347930d46a2b44b602
+    m_Address: Assets/_Project/Page/Data/Test page 10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - page
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 27c5484ec75de554d9deff8bd1424299, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6aca58ecabeb7884484502ad552a2de6, type: 2}
+    - {fileID: 11400000, guid: 74e3ca0cbff022e439ef43189f92957a, type: 2}
