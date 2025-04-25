@@ -19,6 +19,6 @@ public class OpenPageButton : MonoBehaviour
 
     private void OnButtonClick()
     {
-        _pageUI_Prefab.Instantiate(_pageContainer.Page);
+        _pageUI_Prefab.Instantiate(_pageContainer.Page, _pageContainer.PageLoader);
     }
 }

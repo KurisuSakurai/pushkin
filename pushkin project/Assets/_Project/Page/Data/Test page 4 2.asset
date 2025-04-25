@@ -19,5 +19,6 @@ MonoBehaviour:
   <Image>k__BackingField: {fileID: 21300000, guid: b01391fda72b5a043ab545e7204779c2, type: 3}
   <Author>k__BackingField: {fileID: 11400000, guid: bfc214eb203fcd340bb5b5f2af31ea8a, type: 2}
   <BornDate>k__BackingField: 888
+  <Signature>k__BackingField: "\u041F\u043E\u0434\u043F\u0438\u0441\u044C"
   links:
     _serializedList: []

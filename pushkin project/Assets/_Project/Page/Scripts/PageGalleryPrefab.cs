@@ -7,10 +7,12 @@ public class PageGalleryPrefab : MonoBehaviour
 {
     [SerializeField] private Image image;
     public Page Page { get; private set; }
+    public PageLoader PageLoader { get; private set; }
     
-    public void Init(Page pageObject)
+    public void Init(Page pageObject, PageLoader loader)
     {
         Page = pageObject;
+        PageLoader = loader;
 
         int imageWight = pageObject.Image.texture.width;
         int imageHeight = pageObject.Image.texture.height;
