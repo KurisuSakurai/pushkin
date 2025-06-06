@@ -7,12 +7,10 @@ using UnityEngine.UI;
 public class PageUI : MonoBehaviour
 {
     [SerializeField] private TMP_Text _pageName;
-    [SerializeField] private TMP_Text _pageDescription;
     [SerializeField] private Image _image;
     [SerializeField] private Image _imageMask;
     [SerializeField] private Button _closeButton;
     [SerializeField] private TMP_Text _author;
-    [SerializeField] private TMP_Text _signature;
     [SerializeField] private Button _nextButton;
     [SerializeField] private Button _previewButton;
     
@@ -37,8 +35,6 @@ public class PageUI : MonoBehaviour
         _page = page;
         _image.sprite = _page.Image;
         _pageName.text = _page.Name;
-        _pageDescription.text = _page.Description;
-        _signature.text = _page.Signature;
         _image.sprite = _page.Image;
         
         InitSize();
